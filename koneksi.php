@@ -8,3 +8,5 @@
 
 
  $konek    =mysql_connect($server, $user, $pass, $dbname);
+
+   if 

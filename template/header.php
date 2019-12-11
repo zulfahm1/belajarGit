@@ -23,7 +23,7 @@
                   <li><!-- start message -->
                     <a href="#">
                       <div class="pull-left">
-                        <img src="template/AdminLTE-2/AdminLTE/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                        <img src="../template/AdminLTE-2/AdminLTE/dist/img/fb.jpg" class="img-circle" alt="User Image">
                       </div>
                       <h4>
                         Support Team
@@ -95,30 +95,30 @@
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <img src="template/AdminLTE-2/AdminLTE/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-              <span class="hidden-xs">Alexander Pierce</span>
+              <img src="../template/AdminLTE-2/AdminLTE/dist/img/fb.jpg" class="user-image" alt="User Image">
+              <span class="hidden-xs">Zoel Fahmi Syam</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
               <li class="user-header">
-                <img src="template/AdminLTE-2/AdminLTE/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                <img src="../template/AdminLTE-2/AdminLTE/dist/img/fb.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
-                  <small>Member since Nov. 2012</small>
+                  Zoel Fahmi Syam
+                  <small>Bergabung Sejak Nov. 2019</small>
                 </p>
               </li>
               <!-- Menu Body -->
               <li class="user-body">
                 <div class="row">
                   <div class="col-xs-4 text-center">
-                    <a href="#">Followers</a>
+                    <a href="#">Pengikut</a>
                   </div>
                   <div class="col-xs-4 text-center">
-                    <a href="#">Sales</a>
+                    <a href="#">Penjualan</a>
                   </div>
                   <div class="col-xs-4 text-center">
-                    <a href="#">Friends</a>
+                    <a href="#">Pertemanan</a>
                   </div>
                 </div>
                 <!-- /.row -->
@@ -126,18 +126,16 @@
               <!-- Menu Footer-->
               <li class="user-footer">
                 <div class="pull-left">
-                  <a href="#" class="btn btn-default btn-flat">Profile</a>
+                  <a href="#" class="btn btn-default btn-flat">Profil</a>
                 </div>
                 <div class="pull-right">
-                  <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                  <a href="#" class="btn btn-default btn-flat">Keluar</a>
                 </div>
               </li>
             </ul>
           </li>
           <!-- Control Sidebar Toggle Button -->
-          <li>
-            <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
-          </li>
+         
         </ul>
       </div>
     </nav>
